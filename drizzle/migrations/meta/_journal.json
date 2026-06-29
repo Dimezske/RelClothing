@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1782364723697,
+      "tag": "0000_youthful_gauntlet",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1782386795558,
+      "tag": "0001_brainy_scourge",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1782443823192,
+      "tag": "0002_heavy_wild_pack",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1782543707012,
+      "tag": "0003_sudden_krista_starr",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1782565991017,
+      "tag": "0004_daily_pet_avengers",
+      "breakpoints": true
+    }
+  ]
+}
